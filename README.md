@@ -1,6 +1,6 @@
 # Marcelo Medina
 <html lang="es">
-        <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt7MWFLhOiAOErre1I5W2fXsby-IsUsH-9A&usqp=CAU>
+        <span><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt7MWFLhOiAOErre1I5W2fXsby-IsUsH-9A&usqp=CAU></span>
   <h4>Soy de Rosario, tengo 35 años y este es mi trabajo final para Argentina Programa
   <h4>Mi correo electrónico es marcelomedina87@gmail.com
   <h1>Redes</h1><p>
@@ -18,3 +18,6 @@
         <p> </a></li><li>Office Intermedio
          </a></li><li>Francés Avanzado
          </a></li><li>Inglés Avanzado
+         
+</form action=""method="post">
+<input type="email" name=email placeholder"ingrese su email">
