@@ -3,7 +3,7 @@
       <head>
 <meta charset="UTF-8">
 <meta http-esquiv="X-UA-Compatible" content="IE=edge">
-<meta name=""viewport" content="width=device-width, initial-scale=1.0"                               link rel="stylesheet" type="text/css" href="Estilos.css">                        
+<meta name=""viewport" content="width=device-width, initial-scale=1.0"                               <style> h4{color: red;} </style>          
  </head>
             <span><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt7MWFLhOiAOErre1I5W2fXsby-IsUsH-9A&usqp=CAU></span>
       <h4> 
