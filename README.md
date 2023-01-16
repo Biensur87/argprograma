@@ -3,9 +3,8 @@
       <head>
 <meta charset="UTF-8">
 <meta http-esquiv="X-UA-Compatible" content="IE=edge">
-<meta name=""viewport" content="width=device-width, initial-scale=1.0"                               <style> p,li,h1 {
-  color: red;
-}</style>          
+<meta name=""viewport" content="width=device-width, initial-scale=1.0"                               <style> <style="background-color: rgb(100,0, 0);>
+           
  </head>
             <span><img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt7MWFLhOiAOErre1I5W2fXsby-IsUsH-9A&usqp=CAU></span>
       <h4> 
