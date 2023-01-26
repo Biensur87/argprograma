@@ -1,5 +1,13 @@
-# 
+
+  <!DOCTYPE html>
 <html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="estilo.css">
+</head>
+</html>
 <head>
   <h1>Marcelo Medina</h1>
             
@@ -24,8 +32,12 @@
             <p> </a></li><li>Office Intermedio
              </a></li><li>Francés Avanzado
              </a></li><li>Inglés Avanzado
+ <br>
 </form action=""method="get">
-<input type="email"> placeholder"ingrese su nombre"
+ingrese su nombre<input type="nombre"> 
+<br>ingrese su apellido<input type="apellido"> 
+<br>ingrese su e-mail<input type="e-mail"> 
 </body>
+
 
 
