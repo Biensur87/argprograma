@@ -42,11 +42,7 @@
             <p> </a></li><li>Office Intermedio
              </a></li><li>Francés Avanzado
              </a></li><li>Inglés Avanzado </p>
- <br>
-</form action=""method="get">
-ingrese su nombre<input type="nombre"> 
-<br>ingrese su apellido<input type="apellido"> 
-<br>ingrese su e-mail<input type="e-mail"> 
+ 
 </body>
 
 
