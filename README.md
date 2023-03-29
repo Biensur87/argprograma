@@ -27,7 +27,7 @@
             Soy de Rosario, tengo 35 años y este es mi trabajo final para Argentina Programa
       <h4>Mi correo electrónico es marcelomedina87@gmail.com 
             <h2>Redes</h2>
-<p><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/8c244a7a7b8a6e767d241c9a6c5e1b5e13ea693770c52bbc3fe564ba4044a4c9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343835372e706e67" width="25" height="25"> <a id="- Linkedin" href="https://www.linkedin.com/in/marcelo-medina-962a9b69/?originalSubdomain=ar%22">Linkedin</a>
+<p><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/8c244a7a7b8a6e767d241c9a6c5e1b5e13ea693770c52bbc3fe564ba4044a4c9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343835372e706e67" width="25" height="25"> <a id="- Linkedin" href="https://www.linkedin.com/in/marcelo-medina-962a9b69/?originalSubdomain=ar%22">Linkedin</a> <a id="Whatsapp" href="https://wa.me/523413639237?text=Hola%20Mundo">Whatsapp</a>      
       <a href="https://www.instagram.com/biensurfrances/" class="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="25" height="25" alt="logotipo de instagram icono gratis" title="Instagram">Instagram</a>         
             <div>  <h2 style="border: 1px solid red">Formación</h2><p></a></div>
             </li><li>I.E.S. Olga Cossettini N° 28. 4o año Profesorado en Francés. (cursando)
@@ -41,7 +41,7 @@
             <p> </a></li><li>Office Intermedio
              </a></li><li>Francés Avanzado
              </a></li><li>Inglés Avanzado </p>
- 
+      
 </body>
 
 
